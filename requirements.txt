@@ -1,1 +1,6 @@
-
+tensorflow>=2.11
+transformers>=4.30
+torch>=1.13
+numpy
+tqdm
+Pillow
