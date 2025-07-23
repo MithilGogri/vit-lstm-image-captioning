@@ -1,1 +1,45 @@
+Image: man-throws-baby.jpg
+Actual Captions:
+1. A man in a wetsuit is throwing a baby wearing a wetsuit up into the air.
+2. A man in a wetsuit is throwing a toddler up in the air and is ready to catch him.
+3. A man in water throwing a little boy up in the air and waiting for him to come down so he can catch him.
+4. The man is in the pool and throwing a small body into the air.
+5. While water droplets fly, a man throws a little boy up in the air.
+Generated Caption:
+Man throws little boy in the air.
 
+---
+
+Image: woman-baby-airport.jpg
+Actual Captions:
+1. A woman and a baby waiting with luggage.
+2. A woman monitoring a baby as it plays with nearby luggage.
+3. Near the seats, a woman has spread out green blanket to sit on floor with baby.
+4. Woman and baby sitting on floor in waiting room.
+5. Woman and baby waiting at an airport.
+Generated Caption:
+Woman has spread out green blanket to sit on floor with baby.
+
+---
+
+Image: dog-sand-dune.jpg
+Actual Captions:
+1. A dog is running across a desert with bushes around him.
+2. A dog running across the sand.
+3. A dog running up a sandy hill.
+4. A little brown dog is running fast on a sand dune during the day.
+5. Small, hairy dog running in the sand.
+Generated Caption:
+Hairy dog running in the sand.
+
+---
+
+Image: basketball-jump.jpg
+Actual Captions:
+1. A basketball player performing a lay-up.
+2. A boy in a blue basketball uniform, number 13 and a boy in a white basketball uniform, number 23 jump for the ball.
+3. A man in a white uniform jumps while holding a basketball as another in blue blocks him.
+4. Basketball player wearing a white, number 23 jersey jumps up with the ball while guarded by number 13 on the opposite team.
+5. The man in white is playing basketball against the man in blue.
+Generated Caption:
+Number 23 jersey jumps up with the ball while guarded by number 13 on the opposite team.
